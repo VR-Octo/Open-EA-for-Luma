@@ -10,6 +10,6 @@
 ---------------------------------------------------------------
 # Switch Creative mode or Play mode
 
-## "Creative mode" - will switch Creative Mode in the Game
+## "creative mode" - will switch Creative Mode in the Game
 
-## "Play mode" - will switch Play mode in the Game
+## "play mode" - will switch Play mode in the Game
