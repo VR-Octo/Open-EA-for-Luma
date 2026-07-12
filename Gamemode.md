@@ -1,1 +1,1 @@
-Play mode
+play mode
