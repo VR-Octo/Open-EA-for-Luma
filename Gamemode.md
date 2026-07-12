@@ -1,1 +1,1 @@
-play mode
+creative mode
